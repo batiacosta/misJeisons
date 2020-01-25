@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización. Inmunomodulador al regular la respuesta inflamatoria. Exudación mucosa por excelencia.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R9","descripcion": "Cuadros con tos irritativa a consecuencia de afecciones catarrales de las vías respiratorias superiores como infecciones gripales, laringitis, rinofaringitis y traqueitis; accesos de tos seca, como tos ferina en todos sus estadíos y afecciones bronquiales como bronquitis espástica y asma bronquial.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R48","descripcion": "Catarros pulmonares o bronquiales, estadíos iniciales de patologías tuberculosas de los pulmones, catarro del fumador, bronquitis crónica, bronquitis a repetición, bronquitis asmatiforme y en general todas las afecciones catarrales de las vías respiratorias inferiores.","dosis": "10 gotas 3 o 4 veces al día"}
+]

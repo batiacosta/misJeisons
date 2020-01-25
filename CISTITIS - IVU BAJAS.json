@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización.\nInmunomodulador al regular la respuesta inflamatoria.\nExudación mucosa por excelencia.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R18","descripcion": "Tratamiento de las afecciones inflamatorias de los riñones y las vías urinarias que cursan con dolores en las zonas renales y vesicales como en el caso de cistitis, cistopielitis, nefritis, uretritis y ureteritis. Incontinencia urinaria, vejiga irritable, enuresis diurna y nocturna y como medicamento coadyuvante en casos de litiasis renal.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R74","descripcion": "Enuresis diurna y nocturna, así como en caso de vejiga hipotónica o vejiga no contráctil.","dosis": "10 gotas 3 o 4 veces al día"}
+]

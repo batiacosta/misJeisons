@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R3","descripcion": "Insuficiencia cardíaca leve y media, debilidad del músculo cardíaco con tendencia a la formación de edemas, dilatación del miocardio como consecuencia de valvulopatías, procesos degenerativos del miocardio, consecuencias de insuficiencia coronaria y secuelas de infarto al miocardio.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R58","descripcion": "Insuficiencia cardíaca y descompensación cardíaca con formación de edemas, hidropesía por insuficiencia renal o hepática.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R12","descripcion": "Afecciones cardíacas con descompensación y formación de edemas.","dosis": "10 gotas 3 o 4 veces al día"}
+]

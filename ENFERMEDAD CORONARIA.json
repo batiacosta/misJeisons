@@ -1,0 +1,5 @@
+[
+    {"farmaco": "R7","descripcion": "Alteraciones funcionales y estructurales del hígado y la vesícula biliar. Coadyuvante en casos de atero y arterioesclerosis.","dosis": "10 gotas 3 o 4 veces al día"},
+    {"farmaco": "R12","descripcion": "Afecciones provocadas por la esclerosis de los tejidos, especialmente las arterias y los vasos sanguíneos, como en el caso de arteriosclerosis, hipertensión arterial, debilidad vascular cerebral.","dosis": "10 gotas 3 o 4 veces al día"},
+    {"farmaco": "R2","descripcion": "Afecciones funcionales y estructurales del corazón, insuficiencia coronaria, esclerosis coronaria, isquemia coronaria y angina de pecho.","dosis": "10 gotas 3 o 4 veces al día"}
+]

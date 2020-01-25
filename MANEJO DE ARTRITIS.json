@@ -1,0 +1,7 @@
+[
+  {"farmaco": "R1","cantidad": "01","accion": "Acción antiinflamatoria específica. Inmunomodulación en trastornos autoinmunes."},
+  {"farmaco": "R55","cantidad": "01","accion": "Acción antiinflamatoria con énfasis en sistema osteoarticular.\nDegeneración articular."},
+  {"farmaco": "R46","cantidad": "01","accion": "Reumatismo en los antebrazos y las manos, reumatismo en las articulaciones de las rodillas, reumatismo de los hombros e inflamaciones de las articulaciones de la cadera."},
+  {"farmaco": "R11","cantidad": "01","accion": "Reumatismo muscular crónico y agudo, lumbago, ciática por humedad, artritis sacroilíaca."},
+  {"farmaco": "R71","cantidad": "01","accion": "Ciática, isquialgias, síndrome radicular en caso de hernia discal. Acción relajante muscular."}
+]

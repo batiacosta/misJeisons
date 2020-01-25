@@ -1,0 +1,6 @@
+[
+    {"farmaco": "R2","descripcion": "Afecciones funcionales y tructurales del corazón, insuficiencia coronaria, esclerosis coronaria, isquemia coronaria y angina de pecho.","dosis": "10 gotas 3 o 4 veces al día"},
+    {"farmaco": "R67","descripcion": "Insuficiencia circulatoria aguda, colapso cardiocirculatorio, colapso cardíaco como consecuencia de insuficiencia circulatoria.","dosis": "10 gotas 3 o 4 veces al día"},
+    {"farmaco": "R44","descripcion": "Hipotensión, distonía neurovegetativa, debilidad circulatoria, disnea de origen cardíaco, agotamiento y fatiga de origen cardíaco.","dosis": "10 gotas 3 o 4 veces al día"},
+    {"farmaco": "R55","descripcion": "Como profiláctico en caso de trombosis y lesiones vasculares. Modulación del componente inflamatorio.","dosis": "10 gotas 3 o 4 veces al día"}
+]

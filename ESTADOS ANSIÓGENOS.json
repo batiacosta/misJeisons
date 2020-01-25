@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R14","descripcion": "Estados de excitación nerviosa con ansiedad y en trastornos del sueño, como por ejemplo, insomnio, inversión en los ritmos del sueño y las parasomnias como el síndrome de las piernas inquietas (acatisia), terrores nocturnos, pesadillas y el sonambulismo. Depresiones nerviosas exógenas.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R22","descripcion": "Afecciones cardíacas de origen nervioso, palpitaciones irregulares que provocan sofoco.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R54","descripcion": "Trastornos de la función cerebral con disminución de la memoria, trastornos del lenguaje que afectan la expresión y la comprensión (afasia), atrasos del desarrollo intelectual en los niños, como dificultades de aprendizaje e incapacidad de coordinar ideas.","dosis": "10 gotas 3 o 4 veces al día"}
+]

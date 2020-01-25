@@ -1,0 +1,13 @@
+{
+  "titulo": "KIT GASTRO",
+  "r1": "R5",
+  "rtype": "GÁSTRICO",
+  "r1content": "Argentum nitricum D6\nArsenicum album D4\nBelladonna D4\nCarbo vergetabilis D8\nChamomilla D4\nLycopodium D5\nNux vomica D4",
+  "r2": "R37",
+  "r2type": "COLON",
+  "r2content": "Aluminia D12\nBryonia D4\nColocynthis D4\nLycopodium D4\nNux vomica D6\nSulfur D12",
+  "r3": "R72",
+  "r3type": "PÁNCREAS",
+  "r3content": "Colocynthis D6\nLycopodium D6\nMomordica balsamina D4\nPhosphorus D6",
+  "final": "Cubrimiento total del área digestiva, con énfasis en la estimulación de la secreción\nenzimática, por el tropismo sobre el páncreas exocrino"
+}

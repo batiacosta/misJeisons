@@ -1,0 +1,118 @@
+[
+  {
+    "category": "KIT DE DETOFICACIÓN",
+    "especie": "kit",
+    "hijos": [
+      {"VISIBLE":"KIT BÁSICO", "sub": "kitBasico"},
+      {"VISIBLE":"KIT PROFUNDO", "sub": "kitProfundo"},
+      {"VISIBLE":"KIT GASTRO", "sub": "kitGastro"},
+      {"VISIBLE":"KIT DERMA", "sub": "kitDerma"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA CARDIOVASCULAR",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"IAM", "sub": "iam"},
+      {"VISIBLE":"ENFERMEDAD CORONARIA", "sub": "coronaria"},
+      {"VISIBLE":"HIPERTENSIÓN ARTERIAL", "sub": "hipertensionArterial"},
+      {"VISIBLE":"INSUFICIENCIA CARDIACA CONGESTIVA", "sub": "InsuficienciaCardiacaCongestiva"},
+      {"VISIBLE":"ARRITMIA CARDÍACA", "sub": "arritmia"},
+      {"VISIBLE":"HEMORROIDES", "sub": "hemorroides"},
+      {"VISIBLE":"ENFERMEDAD VARICOSA", "sub": "varicosa"},
+      {"VISIBLE":"ENFERMEDAD VASCULAR PERIFÉRICA", "sub": "enfermedadVascularPeriferica"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"VIROSIS RESPIRATORIAS", "sub": "virosisRespiratorias"},
+      {"VISIBLE":"SINUSITIS", "sub": "sinusitis"},
+      {"VISIBLE":"LARINGITIS", "sub": "laringitis"},
+      {"VISIBLE":"BRONQUITIS", "sub": "bronquitis"},
+      {"VISIBLE":"ASMA", "sub": "asma"},
+      {"VISIBLE":"ENFISEMA EPOC", "sub": "enfisemaEpoc"},
+      {"VISIBLE":"PLEURITIS", "sub": "pleuritis"},
+      {"VISIBLE":"NEUMONÍA", "sub": "neumonia"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA OSTEOARTICULAR",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"OSTEOPOROSIS", "sub": "osteoporosis"},
+      {"VISIBLE":"ARTRITIS AGUDA - ARTRITIS REUMATOIDEA", "sub": "artrigisAgRe"},
+      {"VISIBLE":"PATOLOGÍA DE COLUMNA: ARTROSIS CERVICAL", "sub": "artrosisCervical"},
+      {"VISIBLE":"PATOLOGÍA DE COLUMNA: LUMBAGO", "sub": "lumbago"},
+      {"VISIBLE":"PATOLOGÍA DE COLUMNA: CIÁTICA, HERNIA DISCAL", "sub": "herniaDiscal"},
+      {"VISIBLE":"ARTROSIS GENERALIZADAS: GONARTROSIS, COXARTROSIS", "sub": "gonartrosisCoxa"},
+      {"VISIBLE":"ARTROSIS MIEMBROS SUPERIORES", "sub": "artrosisSuperior"},
+      {"VISIBLE":"TÚNEL DEL CARPO, MANGUITO ROTADOR", "sub": "tunelCarpoMan"},
+      {"VISIBLE":"TENDINITIS, TENOSINOVITIS", "sub": "tendinitisTenosi"},
+      {"VISIBLE":"FIBROMIALGIA", "sub": "fibromialgia"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA NERVIOSO CENTRAL",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"ENFERMEDAD VASCULAR CEREBRAL", "sub": "enfermedadVascularCerebral"},
+      {"VISIBLE":"DEMENCIA", "sub": "demencia"},
+      {"VISIBLE":"FATIGA CRÓNICA - EXTENUACIÓN NERVIOSA", "sub": "fatigaCronica"},
+      {"VISIBLE":"MIGRAÑA", "sub": "migrana"},
+      {"VISIBLE":"EPILEPSIA", "sub": "epilepsia"},
+      {"VISIBLE":"ESTADOS ANSIÓGENOS", "sub": "estadosAnsiogenos"},
+      {"VISIBLE":"NEURALGIA INTERCOSTAL", "sub": "neuralgiaIntercostal"},
+      {"VISIBLE":"NEURALGIA", "sub": "neuralgia"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA DIGESTIVO",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"GASTRITIS", "sub": "gastritis"},
+      {"VISIBLE":"REFLUJO GASTROESOFÁGICO", "sub": "reflujo"},
+      {"VISIBLE":"COLON IRRITABLE - COLITIS", "sub": "colitis"},
+      {"VISIBLE":"PARASITISMO INTESTINAL", "sub": "parasitismoIntestinal"},
+      {"VISIBLE":"PATOLOGÍA DE HÍGADO Y VÍAS BILIARES", "sub": "patologiaHigado"}
+    ]
+  },
+  {
+    "category": "ENFERMEDADES DEL SISTEMA URINARIO",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"PROSTATISMO, HPB", "sub": "prostatismo"},
+      {"VISIBLE":"PIELONEFRITIS, NEFRITIS, INFECCIÓN URINARIA", "sub": "pielonefritis"},
+      {"VISIBLE":"CISTITIS, IVU BAJAS", "sub": "cistitis"},
+      {"VISIBLE":"LITIASIS RENAL", "sub": "litiasis"}
+    ]
+  },
+  {
+  "category": "ENFERMEDADES DEL SISTEMA ENDOCRINO",
+  "especie": "enfermedad  ",
+  "hijos": [
+    {"VISIBLE":"MENOPAUSIA", "sub": "menopausia"},
+    {"VISIBLE":"IMPOTENCIA", "sub": "impotencia"},
+    {"VISIBLE":"DIABETES MELLITUS", "sub": "diabetesMellitus"},
+    {"VISIBLE":"HIPERTIROIDISMO", "sub": "hipertiroidismo"},
+    {"VISIBLE":"HIPOTIROIDISMO", "sub": "hipotiroidismo"}
+  ]
+},
+  {
+    "category": "MEDICINA ESTÉTICA",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"CELULITIS", "sub": "celulitis"},
+      {"VISIBLE":"OBESIDAD", "sub": "obesidad"},
+      {"VISIBLE":"ENVEJECIMIENTO CUTÁNEO", "sub": "envejecimiento"}
+    ]
+  },
+  {
+    "category": "MANEJOS USUALES",
+    "especie": "enfermedad  ",
+    "hijos": [
+      {"VISIBLE":"ACNÉ", "sub": "acne"}
+    ]
+  }
+]

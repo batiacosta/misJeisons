@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización.\nInmunomodulador al regular la respuesta inflamatoria.\nExudación mucosa por excelencia.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R7","descripcion": "Hepatitis aguda y crónica, colangitis, colecistitis, cólicos biliares, ictericia obstructiva, hipercolesterolemia y litiasis biliar colesterólica, congestión hepática, lesiones hepáticas, cirrosis hepática, hepatomegalia y otras enfermedades asociadas a disfunciones del metabolismo hepático tales como anorexia, inapetencia, bulimia, dispepsia, meteorismo, intoxicación alimentaria, intoxicación alcohólica.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R55","descripcion": "Modulador de la respuesta inflamatoria, por estímulo del sistema inmunológico.\nFavorece fenómenos de excreción en el organismo.","dosis": "10 gotas 3 o 4 veces al día"}
+]

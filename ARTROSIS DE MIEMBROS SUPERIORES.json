@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R55","cantidad": "01","accion": "Acción antiinflamatoria con énfasis en sistema osteoarticular.\nDegeneración articular."},
+  {"farmaco": "R46","cantidad": "01","accion": "Reumatismo en los antebrazos y las manos, reumatismo de los hombros e inflamaciones de las manos. Túnel del carpo, manguito rotador.\nPatología de codo."},
+  {"farmaco": "R1","cantidad": "01","accion": "Acción anti inflamatoria específica. Inmunomodulación en trastornos auto- inmunes."}
+]

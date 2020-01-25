@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización. Inmunomodulador al regular la respuesta inflamatoria. Exudación mucosa por excelencia.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R9","descripcion": "Cuadros con tos irritativa a consecuencia de afecciones catarrales de las vías respiratorias superiores como infecciones gripales, laringitis, rinofaringitis y traqueitis; accesos de tos seca, como tos ferina en todos sus estadíos y afecciones bronquiales como bronquitis espástica y asma bronquial.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R43","descripcion": "Estados asmá ticos como asma bronquial y bronqui tisnasmá tica. Es un medicamento cons titucional para la diátesisnasma tiforme.La predisposición individual a enfermarse se trata mientrasnel paciente no presente crisis aguda, evitando de esta formanla cronificación de la enfermedad.","dosis": "10 gotas 3 o 4 veces al día"}
+]

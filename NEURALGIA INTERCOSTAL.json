@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización.\nInmunomodulador al regular la respuesta inflamatoria.\nSíndrome de las piernas inquietas (acatisia), los terrores nocturnos, pesadillas y sonambulismo.\nDepresiones nerviosas exógenas.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R69","descripcion": "Neuralgias intercostales de diversos orígenes como neuralgias postherpéticas, neuralgias dorsales de origen reumático, neuralgias musculares de la espalda, especial -mente aquellas que se presentan después de un\nesfuerzo o exceso de ejercicio.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R55","descripcion": "Resolución de dolor a través de modulación de la respuesta inflamatoria.","dosis": "10 gotas 3 o 4 veces al día"}
+]

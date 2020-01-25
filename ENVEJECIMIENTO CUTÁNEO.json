@@ -1,0 +1,10 @@
+[
+  {"farmaco": "Drenaje\nbásico","descripcion": "Eliminación inespecífica de tóxicos a través de los emunctorios, y drenaje de matriz extracelular y mesénquima. Drenaje hepatobiliar y regula metabolismo de las grasas.\nDrenaje renal, retención hídrica y edemas.\nDrenaje linfático e infiltración.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R60","descripcion": "Desequilibrios provocados por impurezas en los humores corporales, la sangre y la linfa principalmente.","dosis": "10 gotas de cada\nfrasco 3 a 4 veces al\ndía"},
+  {"farmaco": "R21","descripcion": "Tratamiento constitucional del tejido conjuntivo y piel tóxica.","dosis": "10 gotas de cada\nfrasco 3 a 4 veces al\ndía"},
+  {"farmaco": "R34","descripcion": "Relajación de los tejidos de sostén y flaccidez.","dosis": "1 amp en área\nafectada 1 a 2 veces\npor semana"},
+  {"farmaco": "Rekin 20\n(mujeres)\ny Rekin\n41 - Forte\n(hombres)","descripcion": "Regulación del eje neuroendocrino y estímulo lipolítico.","dosis": "1 amp en\ntratamiento local o\nbiomesaterápico."},
+  {"farmaco": "R63","descripcion": "Acción eutrófica vascular. Estimulación microcirculatoria.","dosis": "1 amp en\ntratamiento local o\nbiomesaterápico."},
+  {"farmaco": "R21","descripcion": "Tratamiento constitucional del tejido conjuntivo y piel tóxica.","dosis": "1amp en\ntratamiento local o\nbiomesaterápico."},
+  {"farmaco": "R12","descripcion": "Tejidos desvitalizados y proceso fibroesclerótico dermis.","dosis": "1amp en\ntratamiento local o\nbiomesaterápico."}
+]

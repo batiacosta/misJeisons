@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R44","descripcion": "Aumento del rendimiento cardíaco que se halla disminuido a consecuencia de cardiopatías, arritmias cardíacas, trastornos funcionales del músculo cardíaco o valvulopatías; además evitando la dilatación de los vasos sanguíneos.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R12","descripcion": "Tratamiento de afecciones provocadas por la esclerosis de los tejidos, especialmente las arterias y los vasos sanguíneos, como en el caso de arteriosclerosis.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R66","descripcion": "Irregularidades del ritmo cardíaco, los trastornos del sistema de conducción del impulso eléctrico del corazón (marcapasos natural) como consecuencia de miocarditis y endocarditis, los trastornos cardíacos de origen nervioso y la enfermedad de Admas-Stokes entre otras.","dosis": "10 gotas 3 o 4 veces al día"}
+]

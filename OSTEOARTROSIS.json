@@ -1,0 +1,7 @@
+[
+  {"farmaco": "R34","cantidad": "01","accion": "Trastornos del metabolismo del calcio y del crecimiento óseo. Periosteítis, fragilidad de los huesos, osteoporosis."},
+  {"farmaco": "R55","cantidad": "01","accion": "Acción antiinflamatoria con énfasis en sistema osteoarticular.\nDegeneración articular."},
+  {"farmaco": "R73","cantidad": "01","accion": "Artrosis, especialmente de las articulaciones grandes, coxartrosis, gonartrosis, espondiloartrosis."},
+  {"farmaco": "R46","cantidad": "01","accion": "Reumatismo en los antebrazos y las manos, reumatismo en las articulaciones de las rodillas, reumatismo de los hombros e inflamaciones de las articulaciones de la cadera."},
+  {"farmaco": "R1","cantidad": "01","accion": "Acción antiinflamatoria específica. Inmunomodulación en trastornos auto- inmunes."}
+]

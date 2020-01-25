@@ -1,0 +1,10 @@
+[
+  {"farmaco": " ","descripcion": "Utilización de drenaje básico mas:","dosis": " "},
+  {"farmaco": "R42","descripcion": "Tónico circulatorio de amplio espectro.\nMicroangiopatía del tejido adiposo y estasis.","dosis": "10 gotas 3 o 4 veces\nal día"},
+  {"farmaco": "R17","descripcion": "Drenaje matriz extracelular.\nHiperviscosidad de la sustancia fundamental, sobrecarga linfática y edema.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R43","descripcion": "Drenaje mesénquima, equilibrio osmótico y acción hormonal.\nTejidos mal oxigenados con retención de líquidos y encharcamiento extracelular.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "Rekin\n1","descripcion": "Impotencia sexual masculina como disfunción eréctil, eyaculación precoz, espermatorrea, distrofias genitales masculinas, estados de agotamiento y neurastenia, debilidad muscular y disfunciones sexuales como consecuencia de uretritis crónica entre otras.","dosis": "1 amp en área\nafectada 1 a 2 veces\npor semana"},
+  {"farmaco": "Rekin\n20","descripcion": "Regulación del eje neuroendocrino y estímulo lipolítico.","dosis": "1 amp en área\nafectada 1 a 2 veces\npor semana"},
+  {"farmaco": "Rekin\n21","descripcion": "Tratamiento constitucional del tejido conjuntivo. Tendencia a la cronicidad y estancamiento e imbibición tisular con bloqueo mesenquimatoso.","dosis": "1 amp en área\nafectada 1 a 2 veces\npor semana"},
+  {"farmaco": "Rekin\n34","descripcion": "Relajación de tejidos de sostén y debilidad del tejido conectivo.\nFase esclerótica cicatrizal, proceso fibrótico y flacidez.","dosis": "1 amp en área\nafectada 1 a 2 veces\npor semana"}
+]

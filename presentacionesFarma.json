@@ -1,0 +1,295 @@
+[
+    {
+        "nombre": "R1",
+        "description":"Gotas, Rekin 1 Ampollas: Inflamaciones agudas y crónicas"
+    },
+    {
+        "nombre": "R3",
+        "description":"Gotas: Insuficiencias cardíacas"
+    },
+    {
+        "nombre": "R4",
+        "description":"Gotas: Diarrea"
+    },
+    {
+        "nombre": "R5",
+        "description":"Gotas, Rekin 5 Ampollas: Gastritis y acidez estomacal"
+    },
+    {
+        "nombre": "R6",
+        "description":"Gotas, Rekin 6 Ampollas: Catarro y gripe"
+    },
+    {
+        "nombre": "R7",
+        "description":"Gotas, Rekin 7 Ampollas: Afecciones orgánicas y funcionales del hígado y la vesícula biliar"
+    },
+    {
+        "nombre": "R8",
+        "description":"Jarabe: Tos"
+    },
+    {
+        "nombre": "R9",
+        "description":"Gotas : Tos"
+    },
+    {
+        "nombre": "R10",
+        "description":"Gotas, Rekin 10 Ampollas: Climaterio"
+    },
+    {
+        "nombre": "R11",
+        "description":"Gotas, Rekin 11 Ampollas: Dolores de espalda y reumatismo muscular"
+    },
+    {
+        "nombre": "R12",
+        "description":"Gotas, Rekin 12 Ampollas: Arteriosclerosis"
+    },
+    {
+        "nombre": "R13",
+        "description":"Gotas, Rekin 13 Ampollas: Hemorroides"
+    },
+    {
+        "nombre": "R14",
+        "description":"Gotas, Rekin 14 Ampollas: Insomnio y estados de excitabilidad nerviosa"
+    },
+    {
+        "nombre": "R15",
+        "description":"Jarabe: Reconstituyente para los estados de agotamiento nervioso"
+    },
+    {
+        "nombre": "R15F",
+        "description":"Ampollas bebibles: Reconstituyente para los estados de agotamiento nervioso"
+    },
+    {
+        "nombre": "R16",
+        "description":"Gotas, Rekin 16 Ampollas: Migraña y cefaleas continuas"
+    },
+    {
+        "nombre": "R17",
+        "description":"Gotas, Rekin 17 Ampollas: Hiperplasia benigna de los nodos linfáticos y de las glándulas mamarias"
+    },
+    {
+        "nombre": "R18",
+        "description":"Gotas, Rekin Ampollas: Cistitis y nefritis"
+    },
+    {
+        "nombre": "R19",
+        "description":"Gotas: Regulación de la función glandular masculina"
+    },
+    {
+        "nombre": "R20",
+        "description":"Gotas, Rekin 20 Ampollas: Regulación de la función glandular femenina"
+    },
+    {
+        "nombre": "R21",
+        "description":"Gotas, Rekin 21 Ampollas: Tratamiento constitucional de la piel"
+    },
+    {
+        "nombre": "R23",
+        "description":"Gotas: Eczemas"
+    },
+    {
+        "nombre": "R24",
+        "description":"Gotas: Inflamaciones de la pleura y otras membranas serosas"
+    },
+    {
+        "nombre": "R25",
+        "description":"Gotas, Rekin 25 Ampollas: Aumento de la próstata"
+    },
+    {
+        "nombre": "R26",
+        "description":"Gotas: Remedio de drenaje para estimular las funciones excretoras de órganos y sistemas"
+    },
+    {
+        "nombre": "R27",
+        "description":"Gotas, Rekin 27Ampollas,: Cálculos renales"
+    },
+    {
+        "nombre": "R28",
+        "description":"Gotas: Metrorragias"
+    },
+    {
+        "nombre": "R29",
+        "description":"Gotas: Vértigos y pérdida de memoria"
+    },
+    {
+        "nombre": "R30",
+        "description":"Pomada curativa"
+    },
+    {
+        "nombre": "R31",
+        "description":"Gotas: Anemia y falta de apetito"
+    },
+    {
+        "nombre": "R32",
+        "description":"Gotas: Segregación excesiva de sudor"
+    },
+    {
+        "nombre": "R33",
+        "description":"Gotas: Epilepsia"
+    },
+    {
+        "nombre": "R34",
+        "description":"Gotas, Rekin 34 Ampollas: Descalcificación ósea, alteraciones metabólicas del calcio"
+    },
+    {
+        "nombre": "R36",
+        "description":"Gotas: Dolencias nerviosas y corea menor"
+    },
+    {
+        "nombre": "R37",
+        "description":"Gotas, Rekin 37 Ampollas: Meteorismo y cólicos intestinales"
+    },
+    {
+        "nombre": "R38",
+        "description":"Gotas: Quistes ováricos e inflamaciones del bajo vientre (lado derecho)"
+    },
+    {
+        "nombre": "R39",
+        "description":"Gotas: Quistes ováricos e inflamaciones del bajo vientre (lado izquierdo)"
+    },
+    {
+        "nombre": "R40",
+        "description":"Gotas: Adyuvante diabetes mellitus"
+    },
+    {
+        "nombre": "R41",
+        "description":"Gotas, Rekin 41Ampollas: Neurastenia y debilidad sexual masculina"
+    },
+    {
+        "nombre": "R41F",
+        "description":"Ampollas: Neurastenia y debilidad sexual masculina"
+    },
+    {
+        "nombre": "R42",
+        "description":"Gotas: Várices"
+    },
+    {
+        "nombre": "R43",
+        "description":"Gotas, Rekin 43 Ampollas: Asma, tratamiento constitucional 10 Vademécum"
+    },
+    {
+        "nombre": "R45",
+        "description":"Gotas: Laringitis y afonía"
+    },
+    {
+        "nombre": "R46",
+        "description":"Gotas, Rekin 46 Ampollas: Artritis y reumatismo de tejidos blandos"
+    },
+    {
+        "nombre": "R47",
+        "description":"Gotas: Inestabilidad nerviosa e histeria"
+    },
+    {
+        "nombre": "R49",
+        "description":"Gotas, Rekin 49 Ampollas: Sinusitis y rinitis"
+    },
+    {
+        "nombre": "R50",
+        "description":"Gotas: Dolores lumbares"
+    },
+    {
+        "nombre": "R51",
+        "description":"Gotas: Hiperfunción de la glándula tiroides"
+    },
+    {
+        "nombre": "R52",
+        "description":"Gotas: Malestar y mareo en viajes"
+    },
+    {
+        "nombre": "R53",
+        "description":"Gotas: Acné"
+    },
+    {
+        "nombre": "R54",
+        "description":"Gotas, Rekin 54 Ampollas: Alteraciones de las funciones cerebrales"
+    },
+    {
+        "nombre": "R55",
+        "description":"Gotas, Rekin 55 Ampollas: Heridas y lesiones"
+    },
+    {
+        "nombre": "R56",
+        "description":"Gotas: Helmintos"
+    },
+    {
+        "nombre": "R58",
+        "description":"Gotas: Edemas cardíacos"
+    },
+    {
+        "nombre": "R59",
+        "description":"Gotas, Rekin 59 ampollas: Sobrepeso"
+    },
+    {
+        "nombre": "R60",
+        "description":"Gotas: Impurezas de la sangre y las reacciones cutáneas crónicas"
+    },
+    {
+        "nombre": "R63",
+        "description":"Gotas, Rekin 63 Ampollas: Trastornos de la circulación periférica"
+    },
+    {
+        "nombre": "R64",
+        "description":"Gotas: Albuminuria"
+    },
+    {
+        "nombre": "R65",
+        "description":"Gotas: Psoriasis"
+    },
+    {
+        "nombre": "R66",
+        "description":"Gotas: Arritmia cardíaca"
+    },
+    {
+        "nombre": "R67",
+        "description":"Gotas: Colapso circulatorio"
+    },
+    {
+        "nombre": "R68",
+        "description":"Gotas: Herpes zoster y varicela"
+    },
+    {
+        "nombre": "R69",
+        "description":"Gotas: Neuralgias intercostales"
+    },
+    {
+        "nombre": "R70",
+        "description":"Gotas: Dolores neurálgicos de diversa localización especialmente en la zona de la cabeza"
+    },
+    {
+        "nombre": "R71",
+        "description":"Gotas, Ampollas: Ciática"
+    },
+    {
+        "nombre": "R72",
+        "description":"Gotas: Trastornos enzimáticos del páncreas"
+    },
+    {
+        "nombre": "R73",
+        "description":"Gotas, Rekin 73 Ampollas: Artrosis"
+    },
+    {
+        "nombre": "R74",
+        "description":"Gotas: Debilidad de la vejiga"
+    },
+    {
+        "nombre": "R75",
+        "description":"Gotas: Dolores menstruales"
+    },
+    {
+        "nombre": "R77",
+        "description":"Gotas: Tabaquismo"
+    },
+    {
+        "nombre": "R81",
+        "description":"Gotas: Dolor"
+    },
+    {
+        "nombre": "R95",
+        "description":"Jarabe: Falta de apetito, anemia, convalecencia"
+    },
+    {
+        "nombre": "R96",
+        "description":"Solución nasal : Catarros nasales"
+    }
+
+]

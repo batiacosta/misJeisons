@@ -1,0 +1,5 @@
+[
+  {"farmaco": "R12","descripcion": "Esclerosis de los tejidos, especialmente las arterias y los vasos sanguíneos, como en el caso de arteriosclerosis, hipertensión arterial, debilidad vascular cerebral, vértigos de origen circulatorio, acufenos e hipoacusia en pacientes ancianos, pérdida de la memoria y otras manifestaciones de origen arteriosclerótico.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R55","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización.\nProfiláctico en caso de trombosis.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R54","descripcion": "Trastornos de la función cerebral con disminución de la memoria, trastornos del lenguaje que afectan la expresión y la comprensión (afasia) y atrasos del desarrollo intelectual en los niños como dificultades de aprendizaje e incapacidad de coordinar ideas.","dosis": "10 gotas 3 o 4 veces al día"}
+]
